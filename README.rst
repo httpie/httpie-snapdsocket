@@ -28,3 +28,8 @@ Requirements
 ------------
 
 - `requests-unixsocket <https://github.com/msabramo/requests-unixsocket/>`_
+
+Credits
+-------
+
+Based on the original code from @chipaca (`chipaca/httpie-snap <https://github.com/chipaca/httpie-snap>`_).
