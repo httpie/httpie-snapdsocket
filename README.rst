@@ -8,6 +8,9 @@ Snapd is the custom URL protocol used to talk to that store using their `REST AP
 Installation
 ------------
 
+.. image:: https://badge.fury.io/py/httpie-snapdsocket.svg
+    :target: https://badge.fury.io/py/httpie-snapdsocket
+
 .. code-block:: bash
 
     $ python -m pip install --upgrade httpie-snapdsocket
