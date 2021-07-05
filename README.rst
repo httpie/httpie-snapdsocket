@@ -1,7 +1,8 @@
-httpie-snapdsocket
-==================
+Snapd socket transport plugin for `HTTPie <https://httpie.io>`_
+===============================================================
 
-Snapd socket transport plugin for `HTTPie <https://httpie.io>`_.
+`Snap <https://snapcraft.io/>`_ is an app store for Linux.
+Snapd is the custom URL protocol used to talk to that store using their `REST API <https://snapcraft.io/docs/snapd-api>`_.
 
 
 Installation
