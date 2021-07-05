@@ -15,11 +15,11 @@ Installation
 Example usage
 -------------
 
-To query ``open-syobon-action`` package details:
+To query ``httpie`` Snap package details:
 
 .. code-block:: bash
 
-    $ http snapd:///v2/find?name=open-syobon-action
+    $ http 'snapd:///v2/find?name=httpie'
 
 Have a look at the `Snapd REST API documentation <https://snapcraft.io/docs/snapd-api>`_ for more information.
 
